@@ -74,7 +74,7 @@ def display_and_save_summary(name, data):
     print(f"Average Score: {avg_score:.2f}\n")
 
     # Save the summary to an external file for record-keeping
-    with open("Version 1\gradebook_logs1.txt", "a") as file:
+    with open("Version 1\gradebook_logs.txt", "a") as file:
         file.write(f"Name: {name}\n")
         file.write(f"Age: {data['age']}\n")
         file.write("Subjects and Scores:\n")
@@ -90,7 +90,7 @@ def search_student():
     """
     name = input("Enter the student's name to search: ").strip()  # Get student name to search
     try:
-        with open("Version 1\gradebook_logs1.txt", "r") as file:
+        with open("Version 1\gradebook_logs.txt", "r") as file:
             summaries = file.read()  # Read all summaries
         if name in summaries:   
             print("\nStudent Summary Found:")
