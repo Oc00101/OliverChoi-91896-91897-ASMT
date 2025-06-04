@@ -18,14 +18,14 @@ This project was developed as part of the AS91896 and AS91897 internal standards
 ## 🛠️ Technologies Used
 - Python 3
 - EasyGUI (planned in Version 2)
-- JSON file handling (planned in Version 2)
+- JSON file handling (planned in Version 3)
 
 ## 📁 Project Structure
 - README.md # Project overview
 - CHANGELOG.md # Version history
 - Version 1
   - gradebook_logs1.txt # Saved summaries (Version 1)
-  - V1_gradebook_mamager1.py # Main program logic
+  - V1_gradebook_mamager1.py # Main program code
 
 
 
