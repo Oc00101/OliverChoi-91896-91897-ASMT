@@ -15,18 +15,14 @@ This project was developed as part of the AS91896 and AS91897 internal standards
 - Search for summaries using student name
 - Input validation for age, score, and menu options
 
-## 🛠️ Technologies Used
-- Python 3
-- EasyGUI (planned in Version 2)
-- JSON file handling (planned in Version 3)
-
 ## 📁 Project Structure
 - README.md # Project overview
-- CHANGELOG.md # Version history
 - Version 1
-  - gradebook_logs1.txt # Saved summaries (Version 1)
+  - gradebook_logs.txt # Saved summaries (Version 1)
   - V1_gradebook_mamager1.py # Main program code
-
+- Version 2
+  - gradebook_logs.txt # Saved summaries (Version 2)
+  - V2_gradebook_mamager2.py # Main program code
 
 
 ## 📈 Versions
