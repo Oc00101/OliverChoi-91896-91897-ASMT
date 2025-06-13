@@ -23,13 +23,15 @@ This project was developed as part of the AS91896 and AS91897 internal standards
 - Version 2
   - gradebook_logs.txt # Saved summaries (Version 2)
   - V2_gradebook_mamager2.py # Main program code
-
+- Version 3
+  - gradebook_logs.json # Saved summaries (Version 3)
+  - V3_gradebook_mamager3.py # Main program code
 
 ## 📈 Versions
 This project will be developed in three versions:
 - **Version 1**: Basic functionality using Command line interface
 - **Version 2**: EasyGUI-based interface 
-- **Version 3**: JSON file persistence, search improvements, edit/delete features
+- **Version 3**: JSON file, search improvements, edit/delete features, view all students
 - **Version 4**: Report display using pandas and matplotlib
 
 ## 🧠 What I Learned
