@@ -1,0 +1,11 @@
+{
+  "Dhruv Patel": {
+    "age": 3,
+    "subjects": {
+      "Maths": 0,
+      "Physics": 2
+    },
+    "total_score": 2,
+    "count_scores": 2
+  }
+}
